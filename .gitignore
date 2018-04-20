@@ -1,0 +1,14 @@
+**/target/
+**.iml
+*.idea/
+**.jar
+**/log.*
+**.pyc
+**.output/*
+*.zip
+*.log
+bot-thrift/src/main/java/
+.DS_Store
+bot-comb/log/
+bot-ui/.DS_Store
+bot-ui/output/
